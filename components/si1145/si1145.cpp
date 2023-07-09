@@ -4,6 +4,8 @@
 
 #include "esphome/core/log.h"
 
+#import "Arduino.h"
+
 namespace esphome {
 namespace si1145 {
 
